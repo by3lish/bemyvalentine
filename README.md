@@ -20,8 +20,9 @@ This program utilizes the SFML library to create a Valentine's Day card. It disp
 ## Usage
 For start program after compile:
 
-`./valentine`
-
+   ```bash
+   ./valentine
+   ```
 Once you run the program, a window will open displaying the Valentine's Day card. You can close the window by clicking the close button.
 ## Customization
 You can customize the message by modifying the text in the code:
