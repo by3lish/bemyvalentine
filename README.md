@@ -16,6 +16,7 @@ This program utilizes the SFML library to create a Valentine's Day card. It disp
 
    ```bash
    g++ main.cpp -o valentine -lsfml-graphics -lsfml-window -lsfml-system
+   ```
 ## Usage
 For start program after compile:
 ```bash
@@ -23,6 +24,7 @@ For start program after compile:
 ```
 Once you run the program, a window will open displaying the Valentine's Day card. You can close the window by clicking the close button.
 
-You can customize the message by modifying the text in the code:\n
+You can customize the message by modifying the text in the code:
+
 `sf::Text text("Be my valentine!", font, 24);`
 You can also change the image by replacing ily.jpg with your desired image file.
